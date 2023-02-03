@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - hand
+  - Selectable
+  - pause
+  - fallen_plant
+  - wine_bottle
+  - heater_1
+  - candles_1
+  - heater_2
+  - molded_bread_1
+  - dirty_dishes
+  - candles_2
+  - barrel
+  - grill
+  - molded_bread_2
+  - heater_3
+  - pills
+  - heater_4
+  - heater_5
+  - candles_3
+  - wrong_syringe
+  - syringe
+  - stethoscope
+  - front_door
+  - mouth
+  - injection_site
+  - InteractableNPC
+  - LocationPoint
+  - chest
+  - finger
+  - squeezeSpot
+  - head
+  - NotHead
+  - Head2
+  - Pillow
+  - Towel
+  - torso
+  - heater
+  - bottle
+  - candle
+  - food
+  - trash
+  - dishes
+  - toilet
+  - bathrub
+  - bathtub
+  - tv
+  - plant
+  - IV
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Hands
+  - Water
+  - UI
+  - Player
+  - Object
+  - PauseLayer
+  - Grab
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
